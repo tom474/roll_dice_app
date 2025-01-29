@@ -1,6 +1,6 @@
 # Roll Dice Mobile App
 
-Roll Dice Mobile App is a simple Flutter-based application that simulates rolling a dice. It features a clean UI, smooth animations, and interactive elements, making it a fun and engaging experience.
+Roll Dice Mobile App is a simple application that simulates rolling a dice. It features a clean UI, smooth animations, and interactive elements, making it a fun and engaging experience.
 
 ## Tech Stack
 
